@@ -1,0 +1,10 @@
+{
+  "name": "gladys-squeeze-player",
+  "version": "0.0.1",
+  "description": "Gladys Squeezeplayer controler",
+  "main": "index.js",
+  "author": "maybemoi",
+  "dependencies": {
+    "squeezenode": "^0.1.0"
+  }
+}
