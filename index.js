@@ -14,7 +14,7 @@ module.exports = function(sails) {
     install: install,
 
     // Method called by gladys to notify
-   //  notify: notify,
+    // notify: notify,
 
     // Method called by Gladys when user click on the configure button
     setup: setup,
