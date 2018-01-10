@@ -20,7 +20,7 @@ module.exports = function(sails) {
     setup: setup,
 
     // Method called by Gladys to exec action on device
-    exec: exec,
+    exec: exec
 
   };
 
